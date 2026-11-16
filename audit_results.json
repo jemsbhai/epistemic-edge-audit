@@ -1,0 +1,366 @@
+{
+ "claim1_ablation_runs": [
+  {
+   "file": "02_ablation_1.7B_20260403_122134.json",
+   "model": "1.7B",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_1.7B_20260403_124725.json",
+   "model": "1.7B",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_4B_20260403_130636.json",
+   "model": "4B",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_8B_20260403_135248.json",
+   "model": "8B",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_bonsai-1.7B-v2_20260416_001928.json",
+   "model": "bonsai-1.7B-v2",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_bonsai-4B-v2_20260416_003958.json",
+   "model": "bonsai-4B-v2",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_bonsai-8B-v2_20260416_010447.json",
+   "model": "bonsai-8B-v2",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_deepseek-r1-8b-stripped_20260415_192745.json",
+   "model": "deepseek-r1-8b-stripped",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_deepseek-r1-8b-v2_20260416_045118.json",
+   "model": "deepseek-r1-8b-v2",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_deepseek-r1-8b_20260415_184153.json",
+   "model": "deepseek-r1-8b",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_llama-3.2-3B-v2_20260416_030707.json",
+   "model": "llama-3.2-3B-v2",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_llama-3.2-3b-q4_20260403_161646.json",
+   "model": "llama-3.2-3b-q4",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_phi-3.5-mini-q4_20260415_182157.json",
+   "model": "phi-3.5-mini-q4",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_phi-3.5-mini-v2_20260416_032935.json",
+   "model": "phi-3.5-mini-v2",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_qwen3-8B-v2_20260416_023324.json",
+   "model": "qwen3-8B-v2",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_qwen3-8b-q4_20260403_150700.json",
+   "model": "qwen3-8b-q4",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  },
+  {
+   "file": "02_ablation_qwen3.5-4b_20260415_215030.json",
+   "model": "qwen3.5-4b",
+   "total_trials": 400,
+   "C": 1.0,
+   "D": 1.0,
+   "E1": 0.4,
+   "E2": 1.0,
+   "G": 0.4
+  }
+ ],
+ "claim1_summary": {
+  "runs_audited": 17,
+  "total_trials_all_runs": 6800,
+  "runs_with_full_pipeline_1.00": 17,
+  "runs_with_no_epistemic_0.40": 17,
+  "runs_with_no_fusion_vacuous_0.40": 17
+ },
+ "claim2_summaries": {
+  "03_batadal_summary_20260415_201707.json": {
+   "best_auroc": 0.8447,
+   "num_configurations": 84,
+   "best_config": {
+    "strategy": "historical",
+    "k": 24,
+    "lambda": 0.25,
+    "fusion": true,
+    "decay": true,
+    "phys_mode": null,
+    "anomaly_score": null,
+    "smoothing": null
+   }
+  },
+  "03_batadal_summary_20260416_012203.json": {
+   "best_auroc": 0.8447,
+   "num_configurations": 312,
+   "best_config": {
+    "strategy": "historical",
+    "k": 24,
+    "lambda": 0.25,
+    "fusion": true,
+    "decay": true,
+    "phys_mode": "domain",
+    "anomaly_score": null,
+    "smoothing": null
+   }
+  },
+  "03_batadal_summary_20260416_044859.json": {
+   "best_auroc": 0.9004,
+   "num_configurations": 422,
+   "best_config": {
+    "strategy": "historical",
+    "k": 24,
+    "lambda": 0.25,
+    "fusion": true,
+    "decay": true,
+    "phys_mode": "domain",
+    "anomaly_score": "fused_d",
+    "smoothing": 5
+   }
+  }
+ },
+ "claim2_reproducibility_record": {
+  "seed": 42,
+  "original_metrics": {
+   "auroc": 0.9004,
+   "auprc": 0.6379,
+   "best_f1": 0.6481,
+   "best_threshold": 0.38,
+   "best_precision": 0.7273,
+   "best_recall": 0.5845
+  },
+  "verify_metrics": {
+   "auroc": 0.9004,
+   "auprc": 0.6379,
+   "best_f1": 0.6481,
+   "best_threshold": 0.38,
+   "best_precision": 0.7273,
+   "best_recall": 0.5845
+  },
+  "all_match": true,
+  "mismatches": [],
+  "config": {
+   "strategy": "historical",
+   "k": 24,
+   "lambda": 0.25,
+   "fusion": true,
+   "decay": true,
+   "phys_mode": "domain",
+   "anomaly_score": "fused_d",
+   "smoothing": 5,
+   "threshold_mode": "f1_optimal_eval",
+   "phase": "signal_sweep"
+  }
+ },
+ "claim2_heatmap_rows": 422,
+ "claim2_fusion_paired": {
+  "matched_pairs": 150,
+  "mean_diff": 0.0653,
+  "median_diff": 0.0535,
+  "frac_positive": 0.653,
+  "frac_zero": 0.333
+ },
+ "claim3_signal_maxima": {
+  "auroc_fused_u": 0.8447,
+  "auroc_fused_d": 0.9356,
+  "auroc_max_d": 0.8764,
+  "auroc_max_u": 0.7347,
+  "auroc_mean_u": 0.8151,
+  "auroc_composite_ud": 0.9322
+ },
+ "claim3_per_event": [
+  {
+   "event": 1,
+   "rows": [
+    1731,
+    1772
+   ],
+   "best_signal": "fused_u",
+   "auroc": {
+    "fused_u": 0.995,
+    "fused_b": 0.008,
+    "fused_d": 0.992,
+    "max_u": 0.631,
+    "mean_u": 0.799,
+    "min_b": 0.023,
+    "mean_b": 0.076,
+    "max_d": 0.99
+   }
+  },
+  {
+   "event": 2,
+   "rows": [
+    2337,
+    2396
+   ],
+   "best_signal": "fused_d",
+   "auroc": {
+    "fused_u": 0.75,
+    "fused_b": 0.212,
+    "fused_d": 0.805,
+    "max_u": 0.607,
+    "mean_u": 0.678,
+    "min_b": 0.415,
+    "mean_b": 0.308,
+    "max_d": 0.7
+   }
+  },
+  {
+   "event": 3,
+   "rows": [
+    2851,
+    2887
+   ],
+   "best_signal": "max_d",
+   "auroc": {
+    "fused_u": 0.521,
+    "fused_b": 0.414,
+    "fused_d": 0.616,
+    "max_u": 0.526,
+    "mean_u": 0.545,
+    "min_b": 0.311,
+    "mean_b": 0.406,
+    "max_d": 0.666
+   }
+  },
+  {
+   "event": 4,
+   "rows": [
+    3508,
+    3514
+   ],
+   "best_signal": "fused_u",
+   "auroc": {
+    "fused_u": 0.887,
+    "fused_b": 0.136,
+    "fused_d": 0.854,
+    "max_u": 0.485,
+    "mean_u": 0.769,
+    "min_b": 0.023,
+    "mean_b": 0.196,
+    "max_d": 0.635
+   }
+  },
+  {
+   "event": 5,
+   "rows": [
+    3741,
+    3813
+   ],
+   "best_signal": "fused_u",
+   "auroc": {
+    "fused_u": 0.996,
+    "fused_b": 0.004,
+    "fused_d": 0.996,
+    "max_u": 0.735,
+    "mean_u": 0.79,
+    "min_b": 0.023,
+    "mean_b": 0.049,
+    "max_d": 0.994
+   }
+  }
+ ]
+}
